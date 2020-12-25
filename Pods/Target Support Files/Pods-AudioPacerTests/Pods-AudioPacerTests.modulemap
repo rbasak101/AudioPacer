@@ -1,0 +1,6 @@
+framework module Pods_AudioPacerTests {
+  umbrella header "Pods-AudioPacerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
