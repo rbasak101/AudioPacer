@@ -1,1 +1,2 @@
 # AudioPacer
+Privacy Policy
